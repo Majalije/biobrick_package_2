@@ -1,2 +1,9 @@
-^mypkgname\.Rproj$
+^iGEMHack\.Rproj$
 ^\.Rproj\.user$
+^mypkgname\.Rcheck$
+^mypkgname.*\.tar\.gz$
+^mypkgname.*\.tgz$
+^LICENSE\.md$
+^iGEMHack\.Rcheck$
+^iGEMHack.*\.tar\.gz$
+^iGEMHack.*\.tgz$
