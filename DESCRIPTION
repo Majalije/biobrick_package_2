@@ -1,12 +1,21 @@
-Package: mypkgname
+Package: iGEMHack
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+  c(person(given = " Anand",
+  family = " Madhu",
+  role = c("aut", "cre"), # There must be a "cre", but there can only be one
+  email = "anandakrishnanm99@gmail.com"),
+  person(given = " Maja",
+  family = " Jessen",
+  role = "aut",
+  email = "mjess21@student.sdu.dk"),
+  person(given = "Kasper Krunderup",
+  family = "Jakobsen",
+  role = "aut",
+  email = "s204514@dtu.dk"))
 Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2

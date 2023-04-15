@@ -1,5 +1,12 @@
-^mypkgname\.Rproj$
+^iGEMHack\.Rproj$
 ^\.Rproj\.user$
 ^mypkgname\.Rcheck$
 ^mypkgname.*\.tar\.gz$
 ^mypkgname.*\.tgz$
+<<<<<<< HEAD
+=======
+^LICENSE\.md$
+^iGEMHack\.Rcheck$
+^iGEMHack.*\.tar\.gz$
+^iGEMHack.*\.tgz$
+>>>>>>> 76327eeeed15f3462230dd8c4f9705813a92265d
