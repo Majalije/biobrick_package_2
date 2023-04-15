@@ -1,17 +1,3 @@
-#' Title
-#'
-#' @param x
-#' @param y
-#'
-#' @return
-#' @export
-#'
-#' @examples
-test <- function(x, y){
-    z = x + y
-  return(z)
-}
-
 codon_table = c("UUU" = "F", "UCU" = "S", "UAU" = "Y", "UGU" = "C",
   "UUC" = "F", "UCC" = "S", "UAC" = "Y", "UGC" = "C",
   "UUA" = "L", "UCA" = "S", "UAA" = "_", "UGA" = "_",
